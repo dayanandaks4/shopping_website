@@ -32,6 +32,7 @@ Update LinkedIn and other social links
 <img src="images/myimage1.png" alt="Model Result" width="400"/> &nbsp;&nbsp;&nbsp; <img src="images/myimage2.png" alt="Model Result" width="400"/> <br>
 <img src="images/myimage3.png" alt="Model Result" width="400"/> &nbsp;&nbsp;&nbsp; <img src="images/myimage4.png" alt="Model Result" width="400"/> <br>
 
+[💻 Live Demo](https://bhoomika0620.github.io/shopping_website/shopping_website.html
 
-**Update Live Demo:** [Click Here](https://bhoomika0620.github.io/shopping_website/shopping_website.html)
+
 
